@@ -1,0 +1,12 @@
+.conteudo-container{
+    background-color: rgb(169, 243, 200);
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.lego{
+    width: 900px;;
+
+}
